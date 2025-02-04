@@ -18,4 +18,4 @@ A **predictive machine learning model** for forecasting air quality levels based
 
 1️⃣ Clone the repository:  
 ```sh
-https://github.com/PrathamAgrawal51/Air-Quality-Forecast-Machine-Learning-Model.git
+git clone https://github.com/PrathamAgrawal51/Air-Quality-Forecast-Machine-Learning-Model.git
